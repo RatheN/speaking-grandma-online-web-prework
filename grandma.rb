@@ -5,8 +5,8 @@ if phrase == phrase.upcase
 elsif phrase == "I LOVE YOU GRANDMA!"
   then return "I LOVE YOU TOO PUMPKIN!"
 else return "HUH?! SPEAK UP, SONNY!"
+  end
 end
-
 
 
 
