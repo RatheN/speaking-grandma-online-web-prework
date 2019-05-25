@@ -9,7 +9,7 @@ else return "HUH?! SPEAK UP, SONNY!"
   end
 end
 
-speak_to_grandma(hey grandma!)
+speak_to_grandma("hey grandma!")
 
 
 # Whatever you say to grandma, she should respond with
